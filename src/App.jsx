@@ -272,7 +272,7 @@ function App() {
             <div className="md:col-span-2">
               <div className="flex items-center space-x-2 mb-4">
                 <span className="text-2xl">✈️</span>
-                <h2 className="text-xl font-bold">TravelBuddy</h2>
+                <h2 className="text-xl font-bold">Tripzee</h2>
               </div>
               <p className="text-gray-300">
                 Your all-in-one companion for planning, organizing, and enjoying
